@@ -1,4 +1,4 @@
-# Projet-Deep-Learning
+# Projet-Deep-Learning (Guyon Thomas & Poberay Bastien)
 
 ## Description
 This project focuses on developing a deep learning model to recognize and decode CAPTCHAs. The model is trained using a dataset of CAPTCHA images and aims to accurately predict the text contained within these images.
