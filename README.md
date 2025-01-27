@@ -37,3 +37,4 @@ The `notebook.ipynb` file contains the following steps:
 - [Intuitively Understanding Connectionist Temporal Classification](https://towardsdatascience.com/intuitively-understanding-connectionist-temporal-classification-3797e43a86c)
 - [Keras CAPTCHA OCR Example](https://keras.io/examples/vision/captcha_ocr/)
 - [Kaggle CAPTCHA Recognition](https://www.kaggle.com/code/shawon10/captcha-recognition)
+- [Kaggle CAPTCHA DATASET](https://www.kaggle.com/datasets/fournierp/captcha-version-2-images)
